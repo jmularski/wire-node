@@ -1,8 +1,8 @@
-### Wire-node - proof of concept automated dependency injection in Node.js
+# Wire-node - proof of concept automated dependency injection in Node.js
 
 Wire-node is proof of concept that was inspired by [Wire](https://github.com/google/go-cloud/tree/master/wire) 
 
-##Installing
+## Installing
 
 Install wire-node by cloning repo of it
 ```
@@ -12,7 +12,7 @@ Inside of it you can find `wire` directory which contains file needed to use wir
 
 It also contains `example_files` directory where you can find simple usage of wire-node.
 
-##Basics
+## Basics
 
 Lets start by defining first provider
 
@@ -115,4 +115,4 @@ module.exports = stub;
 
 As you can see, it's simillar to what normal programmer would write, just change variables names, and then you are ready to go!
 
-# I would like to remind you that this is a proof of concept, that is not production ready, but I think it works pretty cool nevertheless. Coolest task from GCI I've done so far! Feel free to message me at Gitter (@jmularski) or mail me (jakubmularski723@gmail.com) if you will run in any troubles, or just report issues to GitHub issue page!
+### I would like to remind you that this is a proof of concept, that is not production ready, but I think it works pretty cool nevertheless. Coolest task from GCI I've done so far! Feel free to message me at Gitter (@jmularski) or mail me (jakubmularski723@gmail.com) if you will run in any troubles, or just report issues to GitHub issue page!
