@@ -114,5 +114,3 @@ module.exports = stub;
 ```
 
 As you can see, it's simillar to what normal programmer would write, just change variables names, and then you are ready to go!
-
-### I would like to remind you that this is a proof of concept, that is not production ready, but I think it works pretty cool nevertheless. Coolest task from GCI I've done so far! Feel free to message me at Gitter (@jmularski) or mail me (jakubmularski723@gmail.com) if you will run in any troubles, or just report issues to GitHub issue page!
